@@ -13,13 +13,12 @@ I’m nonanne. I was used to work for a Windows application and Mobile applicati
 ---
 
 ## 🧰 Languages & Tools  
--  **Java**, **C#** , **Dart**, **Python**, **Rust**  
+-  **Java**, **C#**, **Dart**, **Python**, **Rust**  
 - **Git**, **Bash**, **Linux**  
 
 ---
 
 ## 📊 GitHub Stats  
-## 📊 2025 Activity Stats
 ![nonanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonanne&show_icons=true&theme=tokyonight&contribs_since=2025-01-01)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonanne&layout=compact&theme=tokyonight)
 
