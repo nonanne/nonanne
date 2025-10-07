@@ -1,21 +1,19 @@
 # 👋 Hi, I'm **nonanne**  
 
 Welcome to my GitHub!  
-I’m nonanne.
+I’m nonanne. I was used to work for a Windows application and Mobile application development. 
 
 ---
 
 ## 🧠 About Me  
-🌱 Currently diving deeper into **Rust**, **mobile app development**, and **blockchain**.  
-👯 Always open to collaborate on side projects, especially in mobile app.  
-🤔 I’m looking for help with hardware design.     
-📫 How to reach me: `nonanne (on GitHub)` / via email (or other contact手段)  
+🌱 Currently diving deeper into **Rust**, **mobile app development**, and **blockchain**.   
+🤔 I’m looking for help with .     
+📫 How to reach me: `nonanne (on GitHub)`
 
 ---
 
 ## 🧰 Languages & Tools  
-- **Rust**  
-- **C#**  , **Java**  , **Dart**, **Python**
+-  **Java**, **C#** , **Dart**, **Python**, **Rust**  
 - **Git**, **Bash**, **Linux**  
 
 ---
