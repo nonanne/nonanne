@@ -19,7 +19,10 @@ I’m nonanne. I was used to work for a Windows application and Mobile applicati
 ---
 
 ## 📊 GitHub Stats  
-![nonanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonanne&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonanne&layout=compact&theme=tokyonight)  
+## 📊 2025 Activity Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=nonanne&theme=tokyonight&hide_border=true)
+![nonanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonanne&show_icons=true&theme=tokyonight&contribs_since=2025-01-01)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonanne&layout=compact&theme=tokyonight)
+
 
 ---
