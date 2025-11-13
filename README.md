@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **nonanne**  
+# 👋 Hi, I'm **no nanne**  
 
 Welcome to my GitHub!  
 I’m nonanne. I was used to work for a Windows application and Mobile application development. 
