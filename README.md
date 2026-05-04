@@ -1,20 +1,19 @@
 # 👋 Hi, I'm **no nanne**  
 
 Welcome to my GitHub!  
-I’m no nanne. I was used to work for a Windows application and Mobile application development. 
+I’m no nanne. I used to work for a Windows application and Mobile application development. 
 
 ---
 
 ## 🧠 About Me  
-🌱 Currently diving deeper into **Rust**, **mobile app development**, and **blockchain**.   
-🤔 I’m looking for help with .     
+🌱 Currently diving deeper into **mobile app development**, **Rust**, and **blockchain**.     
 📫 How to reach me: `nonanne (on GitHub)`
 
 ---
 
 ## 🧰 Languages & Tools  
--  **Java**, **C#**, **Dart**, **Python**, **Rust**  
-- **Git**, **Bash**, **Linux**  
+-  **Java**, **C#**, **Dart**, **Rust**  
+- **Firebase**, **Supabase**, **Google Cloud**, **Git**, **Figma**    
 
 ---
 
